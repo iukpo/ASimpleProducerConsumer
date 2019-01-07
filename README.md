@@ -23,4 +23,4 @@ RadixSort was chosen because it sorts data with integer keys by grouping keys by
 
 ## License
 
-A Simple Producer/Consumer is distributed under the terms of the [GNU General Public License] (GPL).
+None.
